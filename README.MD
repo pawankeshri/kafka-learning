@@ -1,5 +1,8 @@
 # kafka learning
 
+https://docs.confluent.io/current/installation/docker/config-reference.html
+https://docs.confluent.io/3.3.0/installation/docker/docs/quickstart.html
+
 # Java Setup ---------------------------------------
 Single Node Multi Broker SetUp 
 #Check Java Version
